@@ -1,7 +1,7 @@
 
 Web Programming Project --> Neighborhood Gems
 
-This repository contains all of the code as well as pictures of the website I have created for my
+This repository contains the code as well as pictures of the website I have created for my
 Web Programming Course (Spring 2023). 
 
 Neighborhood Gems is a directory of Atlanta's local businesses. Users with access to the login information will be able to 
