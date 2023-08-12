@@ -1,8 +1,6 @@
 
 Web Programming Project --> Neighborhood Gems
 
-This repository contains the code as well as pictures of the website I have created for my
-Web Programming Course (Spring 2023). 
 
 Neighborhood Gems is a directory of Atlanta's local businesses. Users with access to the login information will be able to 
 access this information. There are 4 categories: Lifestyle, Food & Drink, Nightlife, and Clothing. There is also a forum that allows users to comment local businessess they would like to add to the list. 
